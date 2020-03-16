@@ -24,8 +24,9 @@ MintPy-tutorials contains the documentations for the [MintPy repo](https://githu
 3. Read / write data files
 
    - Read GMT *.grd file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/read_gmt_grd.ipynb)
-   - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/applications/save_data2text.ipynb)
-   - Read HDF5 files in Matlab: [m file](./io/read_hdf5.m)
+   - Read / save time-series HDF5 file into text file: [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/save_data2text.ipynb)
+   - Read HDF5 files in Matlab: [m file](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/read_hdf5.m)
+   - Read kmz file and save as geotiff file [nbviewer](https://nbviewer.jupyter.org/github/insarlab/MintPy-tutorial/blob/master/io/save_data2geotiff.ipynb)
 
 4. Custom applications. List of examples of how to build customized application using mintpy modules or processing recipe using mintpy scripts.     
 
